@@ -39,7 +39,7 @@ body {
 /* -------------------- Fonts -------------------- */
 
 p{
-	font-size: 1em;
+	font-size: 1.125em;
 	line-height: 2em;
 	margin: 20px 0;
 }
@@ -48,7 +48,7 @@ p{
 h1{
 	font-weight: 400;
 	color: #222;
-	font-size: 1.6em;
+	font-size: 1.8em;
 	font-weight: 600;
 	margin: 20px 0;
 }
